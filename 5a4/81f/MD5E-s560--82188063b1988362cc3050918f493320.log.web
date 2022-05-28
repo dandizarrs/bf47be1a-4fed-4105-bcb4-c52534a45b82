@@ -1833,6 +1833,8 @@
 1653616891.800025s 1 https://api.dandiarchive.org/api/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82.zarr/0/0/0/15/4/10
 1653616895.372579s 1 https://api.dandiarchive.org/api/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82.zarr/0/0/0/15/4/11
 1653616900.850804s 1 https://api.dandiarchive.org/api/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82.zarr/0/0/0/15/4/12
+1653712681.737341s 1 https://api.dandiarchive.org/api/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82.zarr/0/0/0/15/4/14
+1653712737.668379s 1 https://api.dandiarchive.org/api/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82.zarr/0/0/0/15/4/2
 1653505727.88753s 1 https://dandiarchive.s3.amazonaws.com/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82/0/0/0/0/0/317?versionId=7AMvFwBJnPSSjNOeSR6EQSPmNoOdPQn5
 1653505727.953157s 1 https://dandiarchive.s3.amazonaws.com/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82/0/0/0/0/0/318?versionId=X3Oaf573AxegO6b0V7QbqC5bwYYFly2H
 1653505728.006712s 1 https://dandiarchive.s3.amazonaws.com/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82/0/0/0/0/0/319?versionId=THUy6xKmmnMerjtXFGCcFaXFEjEYpbvs
@@ -3668,4 +3670,6 @@
 1653616895.202641s 1 https://dandiarchive.s3.amazonaws.com/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82/0/0/0/15/4/11?versionId=0uQIHbmnA_HSKxCDW6oUocRfnbPtKChS
 1653616900.637229s 1 https://dandiarchive.s3.amazonaws.com/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82/0/0/0/15/4/12?versionId=ducNCSEbgW56P1sU6OE.zxF6GExNRxbe
 1653616905.852284s 1 https://dandiarchive.s3.amazonaws.com/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82/0/0/0/15/4/13?versionId=jJvS1dxU8P.h_M4x8_hidDxv55wurpFQ
+1653712681.452471s 1 https://dandiarchive.s3.amazonaws.com/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82/0/0/0/15/4/14?versionId=KKRUxScne1_aufUHd.o6glbPHpH.8MhC
 1653616890.303263s 1 https://dandiarchive.s3.amazonaws.com/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82/0/0/0/15/4/1?versionId=4zxhOYhRtHKMf1pvkY3W8ud.U8otS67M
+1653712737.437914s 1 https://dandiarchive.s3.amazonaws.com/zarr/bf47be1a-4fed-4105-bcb4-c52534a45b82/0/0/0/15/4/2?versionId=IIQenRn6ibzum4..IER6FTx8FOUEUwzx
